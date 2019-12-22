@@ -24,16 +24,18 @@ export default class Aboutus extends Component {
                             </Typography>
 
             
-                    <Typography style={{ color: "white", fontSize: 17, textAlign: "left", marginTop:90,marginLeft:90, fontWeight:500 }}>
+                    <Typography style={{ color: "white", fontSize: 17, textAlign: "left", marginTop:60,marginLeft:90,marginRight: 90,
+                     fontWeight:500 }}>
                     Our main goal is to find your individual therapy’s option with the help of our 
                     innovative technology. We focus on the prevention and early diagnosis of disorders in respiratory, 
                     digestive and integumentary system.
                  </Typography>
-                <Typography style={{ color: "white", fontSize: 17, textAlign: "left", marginTop:50, marginRight: 90, marginLeft:90, fontWeight:500 }}>
+                <Typography style={{ color: "white", fontSize: 17, textAlign: "left", marginTop:20, marginRight: 90, marginLeft:90, fontWeight:500 }}>
                 We ensure quality care and speedy recovery for you, our patients. We pride ourselves 
                 on offering the highest level of treatment and clinical excellence in a timely, professional and discreet manner.
                     </Typography>
-                    <Typography style={{ color: "white", fontSize: 17, textAlign: "left",  marginLeft:90, fontWeight:800 }}>
+                    <Typography style={{ color: "white", fontSize: 17, textAlign: "left",  marginLeft:90,
+                    marginRight: 90, fontWeight:500,  marginTop:20, }}>
                     Your health matters, so whether you are a patient or visitor, we are here to assist you before, during, and after your visit!
                     </Typography>
                     
