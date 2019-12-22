@@ -16,10 +16,10 @@ export default class Aboutus extends Component {
             <Paper square={true} style={{ backgroundColor: lightGreen[100], height: 650, overflowX:"hidden", overflowY:"hidden"}}>
                 <Grid container >
                     <Grid item xs style={{ backgroundColor: lightGreen[200], height: 550, borderRadius:16, marginTop:45, marginRight:120, marginLeft:100}}>
-                <Typography style={{ color: "white", fontSize: 25, fontWeight: 700, textAlign: "left", paddingTop:30, marginLeft:120 }}>
+                <Typography style={{ color: "white", fontSize: 25, fontWeight: 700, textAlign: "left", paddingTop:30, marginLeft:90 }}>
                     Dear patients,
                         </Typography>
-                <Typography style={{ color: "white", fontSize: 25, fontWeight: 700, textAlign: "left", marginTop:15, marginLeft:120 }}>
+                <Typography style={{ color: "white", fontSize: 25, fontWeight: 700, textAlign: "left", marginTop:15, marginLeft:90 }}>
                     welcome to our practice!
                             </Typography>
 
